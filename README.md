@@ -1,3 +1,3 @@
 ### tms-server-discovery
 
-#### TMS Service Discovery
+#### TMS Server Discovery
