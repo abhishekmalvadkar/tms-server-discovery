@@ -1,4 +1,4 @@
-FROM eclipse-temurin:21.0.4_7-jre
+FROM eclipse-temurin:21.0.13_9-jre
 MAINTAINER "Abhishek M"
 COPY target/tms-server-discovery.jar  /app/app.jar
 WORKDIR /app
